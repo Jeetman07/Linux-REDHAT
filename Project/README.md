@@ -1,4 +1,4 @@
-Report: Simple Duplicate File Finder Script
+Report: Duplicate File Finder And CLeaner
 
 1. Introduction
 
@@ -209,5 +209,6 @@ Future improvements could include:
 13. Conclusion
 
 The Simple Duplicate File Finder script offers an effective way to detect duplicate files in a directory. By combining file size comparison and MD5 hashing, the script accurately finds duplicate files and reports wasted storage space. The optional deletion feature enables users to reclaim disk space while maintaining control over their files.
+
 
 This script shows how Bash scripting and standard Linux tools can be combined to create a practical file management tool.
